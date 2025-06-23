@@ -5,9 +5,9 @@ A complicated programme called UniqueTeam was created to capture the intricacies
 ## Project Overview
 Entity-Relationship Diagram: I have made use of an Entity-Relationship Diagram to visualize the complex relationships between various entities and key constraints.
 
-Entity-Relationship Matrix: The Entity-Relationship Matrix complements ERDs by providing a tabular view of entity interactions, which can be particularly useful in complex systems to keep track of various relationships and constraints in a condensed format. **(Images below)** ![E-R Matrix Preview](images/dashboard.png)
+Entity-Relationship Matrix: The Entity-Relationship Matrix complements ERDs by providing a tabular view of entity interactions, which can be particularly useful in complex systems to keep track of various relationships and constraints in a condensed format. **(Images below)** ![E-R Matrix Preview](images/E-R Matrix.png)
 
-Relational Schemas: The models have been expertly translated into relational schemas using the 8-step conversion rule and the database system has been effectively implemented using SQL, MongoDB, and Neo4J. **(Images below)**
+Relational Schemas: The models have been expertly translated into relational schemas using the 8-step conversion rule and the database system has been effectively implemented using SQL, MongoDB, and Neo4J. ![Relational Schema Preview](images/Relational_Schema.png)
 
 Testing: I have developed thorough test cases to query the database systems in SQL, MongoDB, and Neo4J. These tests ensure the data outputs are accurate and dependable.
 
