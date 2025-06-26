@@ -21,7 +21,7 @@ Testing: I have developed thorough test cases to query the database systems in S
 - The design shows that data normalization standards are followed to minimize redundancy. This is evident from the separation of concerns, such as splitting player, team and match information into distinct tables linked through Foreign Keys.
 
 ## Tools & Technologies
-- ERDPlus for entity-relationship diagram and relational schema development [ERD Plus Link](https://erdplus.com).
+- ERDPlus for entity-relationship diagram and relational schema development [ERD Plus Link](https://erdplus.com/edit-diagram/9c85bf54-2071-42c2-a94a-00e2d8861084#google_vignette).
 - MySQL WorkBench for structured data storage and retrieval using SQL. 
 - MongoDB Compass for flexible, document-based data storage using JSON.
 - NEO4J for graph-based data storage and querying.
